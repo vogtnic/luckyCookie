@@ -8,13 +8,13 @@ JavaScript
 
 CSS3
 
-### 💡 Funcionalidades
+## 💡 Funcionalidades
 
 Gera frases motivacionais aleatórias ao clicar no botão.
 
 Interface minimalista e responsiva.
 
-### 🛠️ Como rodar o projeto
+## 🛠️ Como rodar o projeto
 
 Clone o repositório:
 ```bash
@@ -32,11 +32,11 @@ Inicie o servidor de desenvolvimento:
 ```bash
 npm run dev
 ```
-### 🖼️ Demonstração
+## 🖼️ Demonstração
 
 ![Demonstração](./images/LuckyCookie.gif)
 
-### ⚖️ Licença
+## ⚖️ Licença
 
 Este projeto é distribuído sob a licença MIT.
 
